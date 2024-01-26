@@ -1,4 +1,4 @@
-This bash script updates your zone records when your dynamic IP Address changes.
+This bash script updates your zone records when your dynamic IP Address changes and is out of sync with your LuaDNS zone record.
 
 The script requires JQ, linux users with apt can install it with: `apt install jq`
 
